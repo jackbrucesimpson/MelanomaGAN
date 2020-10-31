@@ -8,7 +8,8 @@ Working through the training course [Semi-Supervised Deep Learning with GANs for
 - Train a semi-supervised GAN model to make use of the unlabeled training data. Run the trained model on the test set and compare its performance to the supervised baseline.
 
 ## Contents
-- [Solving MNIST with Pytorch](0_mnist.ipynb) 
+- [Solving MNIST with Pytorch](0_mnist.ipynb)
+- [Image Pipeline](1_image_pipeline.ipynb)
 
 ## Dataset
 - The MelanomaDetection folder contains the image dataset separated into three folders: labeled, unlabeled and test
